@@ -9,9 +9,9 @@
   "commands": [
     {
       "name": "index",
-      "title": "Run Script",
+      "title": "Now Playing",
       "description": "Template for running a script without any view",
-      "mode": "no-view"
+      "mode": "view"
     }
   ],
   "dependencies": {
